@@ -44,3 +44,9 @@ Where ﻿ xxx.com﻿ is the domain name assigned after successful deployment of 
 - URL param branch is the branch name which you want to default search.
 - URL param commit_id is the commit Id which you want to default search.
 The above three parameters are optional, you can fill in any one or two of them. If not filled in, it means that this condition will not be restricted and filtered.
+
+# 访问入口
+- 代码审查门户：https://xxx.amplifyapp.com/reviewList
+- 示例URL：https://xxx.com/reviewList?project=aaa1754138/neomutt&branch=main&commit_id=ed2592e9aca4d5847613c88d7e44479eb95de3c2
+- 文件审查页面：https://xxx.amplifyapp.com/reviewFiles
+
